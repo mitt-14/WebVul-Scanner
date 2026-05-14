@@ -1,4 +1,4 @@
-# Python Web Vulnerability Scanner
+# WebVul Scanner
 
 A modular Python-based web vulnerability scanner designed to perform automated web reconnaissance and identify common web security misconfigurations and vulnerability indicators.
 
