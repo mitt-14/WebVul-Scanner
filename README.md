@@ -115,7 +115,7 @@ TXT / JSON / HTML Reports
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/WebVul-Scanner.git
+git clone https://github.com/mitt-14/WebVul-Scanner.git
 ```
 
 ## Move Into Project Directory
